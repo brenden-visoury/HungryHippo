@@ -1,2 +1,4 @@
 # HungryHippo
-Doin' cool stuff with Python
+Stock Volitility Calculations
+
+Data sources:
